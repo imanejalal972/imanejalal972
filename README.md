@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Check my LinkedIn profile here:
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="imanejalal972" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/imanejalal972?trk=profile-badge">Imane J.</a></div>
               
