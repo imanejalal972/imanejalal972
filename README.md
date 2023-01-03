@@ -5,7 +5,7 @@ I am currently working as a developer at [Phi Partners](https://www.phipartners.
 
 - 📫 How to reach me: i.jalal@aui.ma
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I don't have any social media account except for discord and WhatsApp.
+- ⚡ Fun fact: I don't have any _personal_ social media account except for discord and WhatsApp.
 <!--
 **imanejalal972/imanejalal972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
