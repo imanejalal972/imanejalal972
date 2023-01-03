@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there ^^ I am [Pie](linkedin.com/in/imanejalal972) 👋
 
+I am currently working as a developer at [Phi Partners] (https://www.phipartners.com/) | [IsDB] (https://www.isdb.org/)
+
+
+- 📫 How to reach me: i.jalal@aui.ma
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I don't have any social media account except for discord and WhatsApp. So, any social media accounts (on Faceboor, Instagram, Twitter, Tiktok, ...) under my name isn't mine.
 <!--
 **imanejalal972/imanejalal972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check my LinkedIn profile from here:
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="pie972" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/imanejalal972?trk=profile-badge">Imane J.</a></div>
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=pie972&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
