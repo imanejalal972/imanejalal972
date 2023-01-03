@@ -2,7 +2,7 @@
 ### I am [Pie.](https://www.linkedin.com/in/imanejalal972/) 👋
 
 
-### >About Y0ung-DST
+### >About Pie
 - 🔭 I am currently working as a developer at [Phi Partners](https://www.phipartners.com/) | [IsDB](https://www.isdb.org/)
 - 📫 How to reach me: i.jalal@aui.ma
 - 😄 Pronouns: She/Her
