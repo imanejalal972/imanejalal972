@@ -1,4 +1,4 @@
-### Hi there ^^ I am [Pie]([linkedin.com/in/imanejalal972](https://www.linkedin.com/in/imanejalal972/)) 👋
+### Hi there ^^ I am [Pie](https://www.linkedin.com/in/imanejalal972/) 👋
 
 I am currently working as a developer at [Phi Partners](https://www.phipartners.com/) | [IsDB](https://www.isdb.org/)
 
