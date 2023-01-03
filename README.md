@@ -1,11 +1,14 @@
-### Hi there ^^ I am [Pie](https://www.linkedin.com/in/imanejalal972/) 👋
+### >Whoami ^^
+### I am [Pie.](https://www.linkedin.com/in/imanejalal972/) 👋
 
-I am currently working as a developer at [Phi Partners](https://www.phipartners.com/) | [IsDB](https://www.isdb.org/)
 
-
+### >About Y0ung-DST
+- 🔭 I am currently working as a developer at [Phi Partners](https://www.phipartners.com/) | [IsDB](https://www.isdb.org/)
 - 📫 How to reach me: i.jalal@aui.ma
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I don't have any _personal_ social media account except for discord and WhatsApp.
+- ⚡ Fun fact: I don't have any _personal_ social media account except for discord.
+
+
 <!--
 **imanejalal972/imanejalal972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
