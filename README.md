@@ -3,7 +3,7 @@
 
 
 ### >About Pie ^^
-- 🔭 I am currently working as a developer at [Phi Partners](https://www.phipartners.com/) | [IsDB](https://www.isdb.org/)
+- 🔭 I'm currently working as a developer at [Phi Partners](https://www.phipartners.com/) | [IsDB](https://www.isdb.org/)
 - 📫 How to reach me: i.jalal@aui.ma
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I don't have any _personal_ social media account except for discord.
