@@ -1,8 +1,8 @@
-### >Whoami ^^
+### >Whoami 
 ### I am [Pie.](https://www.linkedin.com/in/imanejalal972/) 👋
 
 
-### >About Pie ^^
+### >About Pie
 - 🔭 I'm currently working as a developer at [Phi Partners](https://www.phipartners.com/) | [IsDB](https://www.isdb.org/)
 - 📫 How to reach me: i.jalal@aui.ma
 - 😄 Pronouns: She/Her
