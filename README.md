@@ -7,6 +7,7 @@
 - 📫 How to reach me: email me at i.jalal@aui.ma || [message me using linkedIn](https://www.linkedin.com/in/imanejalal972/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I don't have any _personal_ social media account (ie. Facebook, Instagram, Tiktok, ..) except for discord.
+- Indian hacker wannabe (jk)
 
 
 <p align="center">
