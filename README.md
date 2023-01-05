@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 
 ### >Whoami :
 ### I am [Pie.](https://www.linkedin.com/in/imanejalal972/) 👋
