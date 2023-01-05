@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 ### >Whoami :
 ### I am [Pie.](https://www.linkedin.com/in/imanejalal972/) 👋
 
@@ -7,7 +9,7 @@
 - 📫 How to reach me: email me at i.jalal@aui.ma || [message me using linkedIn](https://www.linkedin.com/in/imanejalal972/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I don't have any _personal_ social media account (ie. Facebook, Instagram, Tiktok, ..) except for discord.
-- Indian hacker wannabe (jk)
+- 
 
 
 <p align="center">
