@@ -1,12 +1,12 @@
 
 
 ### >Whoami :
-### I am [Pie.](https://www.linkedin.com/in/imanejalal972/) 👋
+### I am [Pie.]👋
 
 
 ### >About Pie :
-- 🔭 I'm currently working as a developer at [Phi Partners](https://www.phipartners.com/) | [IsDB](https://www.isdb.org/)
-- 📫 How to reach me: email me at i.jalal@aui.ma || [message me using linkedIn](https://www.linkedin.com/in/imanejalal972/)
+- 🔭 I'm currently working as a developer
+- 📫 How to reach me: email me at i.jalal@aui.ma
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I don't have any _personal_ social media account (ie. Facebook, Instagram, Tiktok, ..) except for discord.
 
