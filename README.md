@@ -1,7 +1,7 @@
 
 
 ### >Whoami :
-### I am [Pie.]👋
+### I am Pie👋
 
 
 ### >About Pie :
