@@ -8,7 +8,7 @@
 - 🔭 I'm currently working as a developer
 - 📫 How to reach me: email me at i.jalal@aui.ma
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I don't have any ***_personal_ social media accounts*** (ie. Facebook, Instagram, Tiktok, ..) except for a discord account.
+- ⚡ Fun fact: I don't have any ***_personal_ social media accounts*** (ie. Facebook, Instagram, Tiktok, ..) except discord .
 
 
 
