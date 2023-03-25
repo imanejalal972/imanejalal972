@@ -4,7 +4,7 @@
 ### I am Pie👋
 
 
-### >About Pie :
+### >About me :
 - 🔭 I'm currently working as a developer
 - 📫 How to reach me: email me at i.jalal@aui.ma
 - 😄 Pronouns: She/Her
