@@ -37,10 +37,6 @@
 </p>
 <br><br>
 
-|![](https://github-readme-stats.vercel.app/api?username=pie972&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=blueedgetechno&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|
-
-![](https://activity-graph.herokuapp.com/graph?username=pie972&theme=redical)
 
 ![snake](https://raw.githubusercontent.com/pie972/pie972/output/github-contribution-grid-snake.svg)
 
