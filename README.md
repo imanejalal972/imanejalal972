@@ -38,8 +38,9 @@
 <br><br>
 
 
-![](https://activity-graph.herokuapp.com/graph?username=blueedgetechno&theme=redical)
-![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
+![](https://activity-graph.herokuapp.com/graph?username=pie972&theme=redical)
+![snake](https://raw.githubusercontent.com/pie972/pie972/output/github-contribution-grid-snake.svg)
+
 
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=pie972" alt="pie"/> </p>  </p>
 <br>
