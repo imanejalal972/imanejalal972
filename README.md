@@ -1,6 +1,6 @@
-<h3 align="center">Hello Everyone ^^ 👋</h3>
+<h3 align="center">Hello Everyone 👋</h3>
 
-<h3 align="center">I am Pie👋</h3>
+<h3 align="center">**I am Pie ^^**</h3>
 <br>
 
 
