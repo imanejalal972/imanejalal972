@@ -1,7 +1,7 @@
+<h3 align="center">Hello Everyone ^^ 👋</h3>
 
-
-### >Whoami :
-### I am Pie👋
+<h3 align="center">I am Pie👋</h3>
+<br>
 
 
 ### >About me :
