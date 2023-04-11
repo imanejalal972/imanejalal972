@@ -33,7 +33,7 @@
 <br><br>
 
 <p align="center">
-<img width="500" src="https://metrics.lecoq.io/pie972" alt="Github Metrics">
+<img width="420" src="https://metrics.lecoq.io/pie972" alt="Github Metrics">
 </p>
 <br><br>
 
